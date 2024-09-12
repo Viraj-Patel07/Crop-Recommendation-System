@@ -1,0 +1,15 @@
+N,P,K,max_temp,min_temp,max_humidity,min_humidity,max_ph,min_ph,max_water,min_water,soil_type,crop
+100,30,30,35,12,85,75,7.5,6,1800,1500,"loam,sandy_loam,clay",banana
+95,30,65,30,15,95,87.56,7,5.5,700,500,"sandy_loam,sandy",chickpea
+150,50,50,26,20,78,43,8,5.5,1300,700,black,cotton
+30,50,0,35,17,90,70,8.5,5.4,1500,1300,"sandy_loam, clay_loam",ginger
+15,20,35,29,20,95,87.56,7,5.5,700,500,"sandy_loam,sandy",groundnut
+80,35,65,25,21,95,80,6,5.8,800,500,"alluvial,sandy,clay",maize
+300,42,360,25,15,95,88,7,6,500,350,"sandy_loam,loam",onion
+100,70,135,32,20,95,80,8,6,600,400,sandy,pearlmillet
+15,20,35,21,15,80,60,6,5,700,500,"sandy,sandy_loam",potato
+100,70,20,34,21,86.26,62.05,7.8,5,1250,1100,"clay,loam",rice
+80,40,40,20,25,78,62,8,5.5,500,350,"sandy,loam,sandy_loam",sesame
+190,70,90,30,22,95,85,6.5,5,600,400,"sandy_loam,loam",tobacco
+200,45,80,30,22,90,80,7.1,5.8,600,400,"sandy_loam,sandy",watermelon
+160,40,45,35,15,60,50,6.5,6,650,450,"loam,clay_loam",wheat
